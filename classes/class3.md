@@ -27,13 +27,13 @@
 # Homework
 
 Read Getting Started with P5JS
-* Variables
-* Response
+* Chapter 4: Variables
+* Chapter 5: Response
 
 Watch
 * [Variables in p5 (mouseX & mouseY)](https://www.youtube.com/watch?v=RnS0YNuLfQQ)
-* [Variable in p5 (make your own)](https://www.youtube.com/watch?v=RnS0YNuLfQQ)
-* [The Map function](https://www.youtube.com/watch?v=RnS0YNuLfQQ)
+* [Variable in p5 (make your own)](https://www.youtube.com/watch?v=Bn_B3T_Vbxs)
+* [The Map function](https://www.youtube.com/watch?v=nicMAoW6u1g)
 
 # Due Monday
 * Project 1 Part B
