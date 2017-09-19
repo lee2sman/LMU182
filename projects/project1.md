@@ -36,7 +36,7 @@ Modify your code from part B so that the face changes fluidly from the neutral e
 
 * [Peach](https://alpha.editor.p5js.org/full/rJAOETN9W)
 * [Alec](https://alpha.editor.p5js.org/full/Skr6ZOdtW)
-* Amber
+* [Amber](https://alpha.editor.p5js.org/amberkhierallaa/sketches/ByN5MHRFW)
 * [Natalie](http://alpha.editor.p5js.org/nkjerc137/sketches/HJL3eFvq-)
 * [Ben](http://alpha.editor.p5js.org/full/SJeSBkH5-)
 * [Darren](http://alpha.editor.p5js.org/full/r1uQtwPcW)
@@ -45,4 +45,4 @@ Modify your code from part B so that the face changes fluidly from the neutral e
 * [Meghan](http://alpha.editor.p5js.org/full/rJqVDANqZ)
 * [Paulina](http://alpha.editor.p5js.org/full/SytaHbX5b)
 * [Jessica](https://alpha.editor.p5js.org/full/ry4hkdjYW)
-* Emma
+* [Emma](https://alpha.editor.p5js.org/emmaweinberg/sketches/HkoNpyH5Z)
