@@ -7,7 +7,6 @@
 
 # In Class
 * Story presentations by students
-* Conditional Drawing workshop
 * If and Else Statements
 * Boolean Variables
 
