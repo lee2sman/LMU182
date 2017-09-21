@@ -11,7 +11,8 @@
 * Boolean Variables
 
 # Sample code
-* [If Else example](http://alpha.editor.p5js.org/2sman/sketches/HJI6mheiW)
+* [Simple If Else example](http://alpha.editor.p5js.org/2sman/sketches/r1hPNnlsZ)
+* [If Else example with boolean](http://alpha.editor.p5js.org/2sman/sketches/HJI6mheiW)
 
 # Homework
 
