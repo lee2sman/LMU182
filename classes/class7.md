@@ -10,6 +10,9 @@
 * If and Else Statements
 * Boolean Variables
 
+# Sample code
+* [If Else example](http://alpha.editor.p5js.org/2sman/sketches/HJI6mheiW)
+
 # Homework
 
 * Read: [A field guide to debugging](https://p5js.org/learn/debugging.html)
