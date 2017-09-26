@@ -6,6 +6,9 @@
 * Review If Else Statements
 * Studio Time for Part C 
 
+# Example code from class
+* [Link to our If-Then-Else code from class](http://alpha.editor.p5js.org/2sman/sketches/HJq-QBwj-)
+
 
 ## Due
 Project 2 Part B
