@@ -32,6 +32,7 @@ Once you have created a sketch for each of your scenes / rooms, combine them all
 * [Ben](http://alpha.editor.p5js.org/benlyons/sketches/SyxQUeXnZ)
 * [Darren](http://alpha.editor.p5js.org/dmaserka/sketches/r1c270FiZ)
 * [Emma](http://alpha.editor.p5js.org/emmaweinberg/sketches/Hkz6pqenb)
+* [Hessica](http://alpha.editor.p5js.org/Jvys/sketches/BknyqFxnW)
 * [Natalie](http://alpha.editor.p5js.org/nkjerc137/sketches/SyOIGeXn-)
 * [Natalia](http://alpha.editor.p5js.org/natatac97/sketches/r1toXlznb)
 * [Paulina](http://alpha.editor.p5js.org/ptremble/sketches/HyJUar13b)
