@@ -27,7 +27,7 @@ Once you have created a sketch for each of your scenes / rooms, combine them all
 
 **Due Monday 10/2. We will playthrough your narratives during class time.**
 
-* [Alec](http://alpha.editor.p5js.org/2sman/sketches/SyCMubm3W)
+* [Alec](https://alpha.editor.p5js.org/Alech978/sketches/Hk2qVRy2b)
 * [Amber](https://alpha.editor.p5js.org/amberkhierallaa/sketches/B1pW6-l3b)
 * [Ben](http://alpha.editor.p5js.org/benlyons/sketches/SyxQUeXnZ)
 * [Darren](http://alpha.editor.p5js.org/dmaserka/sketches/r1c270FiZ)
