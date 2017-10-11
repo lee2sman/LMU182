@@ -17,7 +17,9 @@ For project 3 we will be creating a musical instrument that can be played by pre
 
 # Part B - due 10/11
 
-Starter code [here](http://alpha.editor.p5js.org/2sman/sketches/SkwoinKhW)
+# Example code
+
+Starter code [here](http://alpha.editor.p5js.org/2sman/sketches/BJvl_xi2b)
 
 * Create 5 - 26 functions, each with an animation and sound sample that gets triggered. 
 
