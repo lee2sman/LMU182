@@ -49,6 +49,6 @@ Now that you have all of your animations created, combine them all into one larg
 * [Ben](http://alpha.editor.p5js.org/benlyons/sketches/SJ03e7o6-)
 * [Amber](http://alpha.editor.p5js.org/amberkhierallaa/sketches/r1z-oGh6b)
 * [Jessica](http://alpha.editor.p5js.org/full/Sy-uWnBaZ)
-* [Natalie](http://alpha.editor.p5js.org/full/HkwOsjB6b)
+* [Natalie](http://alpha.editor.p5js.org/nkjerc137/sketches/HkwOsjB6b)
 * [Meghan](http://alpha.editor.p5js.org/msilliv1/sketches/H1Xx6H32b)
 
