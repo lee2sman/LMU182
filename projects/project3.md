@@ -37,4 +37,18 @@ Now that you have all of your animations created, combine them all into one larg
 
 ## Due: Wednesday 10/18
 
+# Student Projects
+
+* [Peach](http://alpha.editor.p5js.org/peachyellis/sketches/SJqfi8Z6Z)
+* [Alec](http://alpha.editor.p5js.org/Alech978/sketches/rkQY7-maZ)
+* [Cynthia](http://alpha.editor.p5js.org/corduna/sketches/SJe1D3-Tb)
+* [Darren](http://alpha.editor.p5js.org/dmaserka/sketches/HkFXzLh3b)
+* [Natalia](http://alpha.editor.p5js.org/full/BJwbY1Qa-)
+* [Paulina](http://alpha.editor.p5js.org/ptremble/sketches/SyW3HV3nZ)
+* [Emma](https://alpha.editor.p5js.org/emmaweinberg/sketches/HJ3s_5BT-)
+* [Ben](http://alpha.editor.p5js.org/benlyons/sketches/SJ03e7o6-)
+* [Amber](http://alpha.editor.p5js.org/amberkhierallaa/sketches/r1z-oGh6b)
+* [Jessica](http://alpha.editor.p5js.org/full/Sy-uWnBaZ)
+* [Natalie](http://alpha.editor.p5js.org/full/HkwOsjB6b)
+* [Meghan](http://alpha.editor.p5js.org/msilliv1/sketches/H1Xx6H32b)
 
