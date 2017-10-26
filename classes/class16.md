@@ -6,7 +6,7 @@
 	* framerate
 	* speed
 	* bounce
-	* time with millis()
+	* time with millis() - page 130
 * Review Installing and setting up P5JS in Brackets
 * Review getting and installing P5Play
 * Intro to Games - History, Concepts
