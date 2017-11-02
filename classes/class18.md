@@ -1,7 +1,7 @@
 # Class 18
 
 # In-class
-* Review passing parameters to a function
+* Review passing parameters to a function - [Example](http://alpha.editor.p5js.org/2sman/sketches/BygNMZORZ)
 * Local vs Global variables
 * Tutorial on Classes and Objects
 * Sprites in p5play (as times allows) - [Examples](http://p5play.molleindustria.org/examples/index.html?fileName=sprite.js)
