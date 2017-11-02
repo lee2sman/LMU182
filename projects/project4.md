@@ -1,8 +1,9 @@
 # Project 4 A Game!
 
-# Download P5Play 
+# Get P5Play 
 
 * Right [here](https://github.com/molleindustria/p5.play/blob/master/lib/p5.play.js)
+* Or duplicate my [starter sktech](http://alpha.editor.p5js.org/2sman/sketches/BknMTz_0-) that has P5Play already uploaded
 
 ## Part A
 
