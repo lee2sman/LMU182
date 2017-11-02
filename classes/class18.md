@@ -8,7 +8,7 @@
 
 # Starter code
 * A basic sketch showing how to use [Objects](http://alpha.editor.p5js.org/2sman/sketches/BJt4Lk_0W) - *note: this uses the new ES6 system, different than what is in the Getting Started with P5JS book*
-* A sketch with [objects and input parameters](http://alpha.editor.p5js.org/2sman/sketches/BJt4Lk_0W) 
+* A sketch with [objects and input parameters](http://alpha.editor.p5js.org/2sman/sketches/HJkrUkdRb) 
 
 # Definitions
 
