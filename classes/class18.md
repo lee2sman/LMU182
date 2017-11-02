@@ -19,7 +19,7 @@
 
 # Homework
 ### Watch
-* Review [Classes in Javascript with ES6](https://www.youtube.com/watch)
+* Review [Classes in Javascript with ES6](https://www.youtube.com/watch?v=T-HGdc8L-7w)
 * Review [Constructor Arguments with Classes in ES6](https://www.youtube.com/watch?v=rHiSsgFRgx4)
 
 ### Code
