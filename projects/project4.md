@@ -35,7 +35,9 @@ Game Plan
 
 ## Part B
 
-Now that you have all of your sketching created, run mini playtests, and code up your game iteratively, fixing problems as you go and testing to make sure it makes sense and is fun to play.
+* Create your Start screen, Information/About screen, Win screen and Lose screen
+* Look at examples from other games
+* Aesthetics, design should be consistent, attractive and based on your game concept
 
 ### Due:
 
