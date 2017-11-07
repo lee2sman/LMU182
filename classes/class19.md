@@ -9,6 +9,9 @@
 * Review code
 * P5Play
 
+# Starter Code
+* [example](http://alpha.editor.p5js.org/2sman/sketches/HJkrUkdRb) code for Classes with passing parameters
+
 ## Homework
 
 ### Code
