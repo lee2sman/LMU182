@@ -5,6 +5,7 @@
 * Project 4, Game - in-progress
 
 # In Class
+* ```let``` is the new ```var```
 * Review code
 * P5Play
 
