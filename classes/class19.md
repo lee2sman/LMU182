@@ -20,3 +20,5 @@
 * [What is an array](https://www.youtube.com/watch?v=VIQoUghHSxU)
 * [Arrays and Loops](https://www.youtube.com/watch?v=RXWO3mFuW-I)
 
+#### RESOURCES
+* [An array of objects](https://www.youtube.com/watch?v=fBqaA7zRO58)
