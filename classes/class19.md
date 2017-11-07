@@ -7,6 +7,7 @@
 # In Class
 * ```let``` is the new ```var```
 * Review code
+* Arrays!
 * P5Play
 
 # Starter Code
