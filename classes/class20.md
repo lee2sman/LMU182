@@ -5,7 +5,7 @@
 * P5Play Examples
 
 # Code Example
-* [Falling Rain](http://alpha.editor.p5js.org/2sman/sketches/HyAwWDbkG) example using classes
+* [Falling Rain](http://alpha.editor.p5js.org/2sman/sketches/HyAwWDbkG) example using classes 
 
 # Homework
 * Continue work on game
