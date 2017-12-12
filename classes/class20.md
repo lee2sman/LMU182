@@ -4,6 +4,10 @@
 * Arrays of Objects
 * P5Play Examples
 
+# Code Example
+* [Falling Rain](http://alpha.editor.p5js.org/2sman/sketches/HyAwWDbkG) example using classes 
+* [Basic sprite example](http://alpha.editor.p5js.org/2sman/sketches/ByLlvvW1f) with P5Play
+
 # Homework
 * Continue work on game
 
